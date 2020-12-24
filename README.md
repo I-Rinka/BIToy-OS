@@ -5,4 +5,4 @@
 https://github.com/I-Rinka/BIToy-Language
 
 ## 架构设计
-![](​​https://cdn.jsdelivr.net/gh/I-Rinka/picTure//BIToyOS.drawio.png)
+![](https://cdn.jsdelivr.net/gh/I-Rinka/picTure//BIToyOS.drawio.png)
